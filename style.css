@@ -1,0 +1,34 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: 10c46a;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header {
+    background: rgb(168, 216, 147);
+    color:grey;
+    padding: 25px;
+    margin: 25px;
+}
+section {
+    background:rgb(247, 247, 247);
+}
+section.title-area {
+    background:rgb(234, 234, 234);
+}
+.card { 
+    background-color: snow
+    padding: 20px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    float: left;
+    width: 29%;
+}
+@media max-width: 1050px {z
+    .card {
+
+    }
